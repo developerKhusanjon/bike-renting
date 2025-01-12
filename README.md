@@ -1,2 +1,2 @@
 # bike-rental
-Event driven system of renting bikes with AxonIQ 
+Distributed bike renting system
