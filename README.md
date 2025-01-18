@@ -1,2 +1,2 @@
-# bike-rental
+# bike-renting
 Distributed bike renting system
