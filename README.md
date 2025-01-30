@@ -1,2 +1,2 @@
 # bike-renting
-Distributed bike renting system
+Bike ranting platform across countries
